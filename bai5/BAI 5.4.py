@@ -1,5 +1,5 @@
-print("Sinh vien: LE HOANG VU")
-print("Ma so SV : 245751030110084")
+print("Sinh vien: LE TIEN DUY")
+print("Ma so SV : 245752021610097")
 print("#############################")
 from tkinter import *
 
@@ -17,3 +17,4 @@ btn = Button(window, text="Click Me", command=clicked, bg="lightblue", fg="black
 btn.grid(column=1, row=0)
 
 window.mainloop()
+
