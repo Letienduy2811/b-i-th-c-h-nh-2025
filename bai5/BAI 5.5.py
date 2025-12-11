@@ -1,6 +1,6 @@
-print("sinh vien : le hoang vu")
+print("sinh vien :LE TIEN DUY")
 
-print("ma so sv :245751030110084")
+print("ma so sv :245752021610097")
 
 print("#############################")
 import tkinter as tk
@@ -37,3 +37,4 @@ for val, language in enumerate(languages):
                    value=language[1]).pack(anchor=tk.W)
 
 root.mainloop()
+
