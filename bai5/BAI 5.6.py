@@ -1,5 +1,5 @@
-print("Sinh vien: LE HOANG VU")
-print("Ma so SV : 245751030110084")
+print("Sinh vien: LE TIEN DUY")
+print("Ma so SV : 245752021610097")
 print("#############################")
 from tkinter import *
 
@@ -25,3 +25,4 @@ menu.add_cascade(label="Help", menu=helpmenu)
 helpmenu.add_command(label="About...", command=About)
 
 root.mainloop()
+
