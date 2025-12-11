@@ -2,9 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title("Thông tin cá nhân")
-print("Sinh vien: LE HOANG VU")
-print("Ma so SV : 245751030110084")
-print("#############################")
 root.geometry("300x280")
 
 Label(root, text="Họ tên:").pack()
@@ -44,3 +41,4 @@ def clicked():
 Button(root, text="Click Me", command=clicked).pack(pady=10)
 
 root.mainloop()
+
