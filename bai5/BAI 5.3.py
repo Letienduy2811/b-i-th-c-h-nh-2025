@@ -1,5 +1,5 @@
-print("Sinh vien: LE HOANG VU")
-print("Ma so SV : 245751030110084")
+print("Sinh vien: LE TIEN DUY")
+print("Ma so SV : 245752021610097")
 print("#############################")
 import turtle
 import random
@@ -15,3 +15,4 @@ for i in range(12):
     t.right(30)
 
 turtle.done()
+
