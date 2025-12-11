@@ -1,6 +1,6 @@
-print("sinh vien : le hoang vu")
+print("sinh vien : LE TIEN DUY")
 
-print("ma so sv :245751030110084")
+print("ma so sv :245752021610097")
 
 print("#############################")
 import turtle
@@ -23,3 +23,4 @@ for i in range(1, 180):
     draw_sq(painter, 200)
 
 turtle.done()
+
