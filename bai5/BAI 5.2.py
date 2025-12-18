@@ -2,7 +2,6 @@ print("sinh vien :  LE TIEN DUY")
 
 print("ma so sv :245752021610097")
 
-print("#############################")
 import turtle
 import random
 
@@ -20,4 +19,5 @@ for i in range(10):
     painter.setposition(0, 0)
 
 turtle.done()
+
 
